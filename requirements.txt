@@ -1,0 +1,18 @@
+# USB Security Pro v1.0.0 - Python Dependencies
+# Production-Ready Secure USB Control System
+
+# GUI Framework
+customtkinter>=5.2.0
+
+# Security & Cryptography
+cryptography>=41.0.0
+keyring>=24.0.0
+
+# Email
+secure-smtplib>=0.1.1
+
+# Image Processing
+opencv-python>=4.8.0
+
+# Windows Integration
+pywin32>=305
